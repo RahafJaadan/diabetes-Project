@@ -35,7 +35,7 @@ The data was cleaned through several key steps:
  1. Split the data into a training set and a testing set.
  2. Train the model on the training set.
  3.  Use the testing set to evaluate the model's performance.
- 4. Calculate accuracy using functions available in the Scikit-learn library
+ 4. Calculate accuracy using functions available in the sklearn library
 
 ## How to Use
 To run this project, follow these steps:
