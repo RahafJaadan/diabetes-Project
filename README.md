@@ -43,9 +43,11 @@ To run this project, follow these steps:
     ```bash git clone https://github.com/username/repository-name.git cd repository-name
     
 2. Install the requirements:
+   
     ```pip install -r requirements.txt ```
 
-3. Run the code:
+4. Run the code:
+   
       ```python analysis.py```
 
 You can further adjust the content as needed!
