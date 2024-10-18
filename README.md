@@ -40,7 +40,7 @@ The data was cleaned through several key steps:
 ## How to Use
 To run this project, follow these steps:
 1. Clone the repository:
-    bash git clone https://github.com/username/repository-name.git cd repository-name
+ bash git clone https://github.com/username/repository-name.git cd repository-name
     
 2. Install the requirements:
    
